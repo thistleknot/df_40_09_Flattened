@@ -210,3 +210,33 @@ descriptor_shape_standard
 	[ADJ:square cut]
 	[GEMS_USE_ADJ]
 	[TILE:4]
+
+[SHAPE:SKULL_CUT_GEM]
+	[NAME:gem:gems]
+	[ADJ:skull cut]
+	[GEMS_USE_ADJ]
+	[TILE:4]
+
+[SHAPE:SNOWFLAKE_CUT_GEM]
+	[NAME:gem:gems]
+	[ADJ:snowflake cut]
+	[GEMS_USE_ADJ]
+	[TILE:4]
+
+[SHAPE:FLARE_CUT_GEM]
+	[NAME:gem:gems]
+	[ADJ:flare cut]
+	[GEMS_USE_ADJ]
+	[TILE:4]
+
+[SHAPE:BEAR_CUT_GEM]
+	[NAME:gem:gems]
+	[ADJ:bear cut]
+	[GEMS_USE_ADJ]
+	[TILE:4]
+
+[SHAPE:LIGHTNING_BOLT_CUT_GEM]
+	[NAME:gem:gems]
+	[ADJ:lightning bolt cut]
+	[GEMS_USE_ADJ]
+	[TILE:4]
