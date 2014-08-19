@@ -19,6 +19,6 @@ Wagons-as-creatures is most likely going to be replaced once moving siege engine
 [ITEMCORPSE:WOOD:NO_SUBTYPE:LOCAL_CREATURE_MAT:WOOD]
 [BODY_SIZE:0:0:12000]
 [ALL_ACTIVE]
-[TRADE_CAPACITY:15000]
+[TRADE_CAPACITY:7500]
 [MUNDANE]
 [ODOR_LEVEL:0]
